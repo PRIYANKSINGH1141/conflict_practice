@@ -1,2 +1,2 @@
+hello priyank through dev branch .
 
-hello priyank from master branch
