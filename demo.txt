@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 hello priyank singh through dev branch .
-
+hello priyank  dev branch .
+>>>>>>> dev
